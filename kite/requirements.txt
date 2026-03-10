@@ -1,8 +1,0 @@
-"""
-KITE TRADING BOT - CLEANER, MODULAR RESTRUCTURE
-Organized and easy to use!
-"""
-
-# Dependencies required to run the trading bot
-kiteconnect>=4.1.0
-python-dotenv>=0.19.0
